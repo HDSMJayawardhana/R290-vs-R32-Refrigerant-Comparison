@@ -135,28 +135,31 @@ R-32 is safer in terms of flammability. R-290 requires:
 ### 4. COP Calculation Results
 
 Assumptions:
-    Condenser Temperature : 40 degrees C
-    Evaporator Temperature: 10 degrees C
-    Process 1-2           : Isentropic
+   - Condenser Temperature : 40 degrees C
+   - Evaporator Temperature: 10 degrees C
+   - Process 1-2           : Isentropic
 
 R-32 COP Calculation:
-    P1 = 1.10690 MPa   P3 = 2.47830 MPa
-    h1 = 516.66 kJ/kg  h2 = 553 kJ/kg
-    h3 = 275.61 kJ/kg
-    Work input = h2 - h1 = 36.34 kJ/kg
-    Q_in = h1 - h4 = 241.01 kJ/kg
-    COP (R-32) = 6.633
+   - P1 = 1.10690 MPa
+   - P3 = 2.47830 MPa
+   - h1 = 516.66 kJ/kg
+   - h2 = 553 kJ/kg
+   - h3 = 275.61 kJ/kg
+   - Work input = h2 - h1 = 36.34 kJ/kg
+   - Q_in = h1 - h4 = 241.01 kJ/kg
+   - COP (R-32) = 6.633
 
 R-290 COP Calculation:
-    P1 = 0.63660 MPa   P3 = 1.3694 MPa
-    h1 = 585.67 kJ/kg  h2 = 620 kJ/kg
-    h3 = 307.15 kJ/kg
-    Work input = h2 - h1 = 34.33 kJ/kg
-    Q_in = h1 - h4 = 278.52 kJ/kg
-    COP (R-290) = 8.113
+   - P1 = 0.63660 MPa   P3 = 1.3694 MPa
+   - h1 = 585.67 kJ/kg  h2 = 620 kJ/kg
+   - h3 = 307.15 kJ/kg
+   - Work input = h2 - h1 = 34.33 kJ/kg
+   - Q_in = h1 - h4 = 278.52 kJ/kg
+   - COP (R-290) = 8.113
 
-Result: COP R-32 (6.633) < COP R-290 (8.113)
-R-290 demonstrates superior energy efficiency.
+Result: 
+- COP R-32 (6.633) < COP R-290 (8.113)
+- R-290 demonstrates superior energy efficiency.
 
 ---
 
