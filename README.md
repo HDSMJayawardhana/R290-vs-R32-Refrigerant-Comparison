@@ -220,23 +220,15 @@ Result:
     |-- Report/
     |   |-- Final_Report.pdf
     |
-    |-- Data/
-    |   |-- VRE_R32_Data.xlsx
-    |   |-- VRE_R290_Data.xlsx
-    |   |-- Pressure_Temperature_Data.xlsx
-    |   |-- Pressure_Ratio_R32.xlsx
-    |   |-- Pressure_Ratio_R290.xlsx
-    |
     |-- Figures/
-        |-- Refrigeration_Cycle_Diagram.png
+        |-- Pressure Vs Enthalpy diagram of a refrigeration cycle.png
         |-- Pressure_vs_Temperature_R32_R290.png
         |-- VRE_vs_Evaporating_Temp_R32.png
         |-- VRE_vs_Evaporating_Temp_R290.png
         |-- Pressure_Ratio_vs_Evaporating_Temp_R32.png
         |-- Pressure_Ratio_vs_Evaporating_Temp_R290.png
         |-- Flammability_Classification_Chart.png
-        |-- PH_Diagram_Refrigeration_Cycle.png
-        |-- TS_Diagram_Refrigeration_Cycle.png
+        |-- Schematic diagram for basic refrigeration_Cycle.png
 
 ---
 
